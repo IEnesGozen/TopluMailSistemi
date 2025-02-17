@@ -1,4 +1,4 @@
-Mail Gönderme Sistemi
+Mail Gönderme Sistemi:
 Bu Python projesi, kullanıcıların veritabanına kişileri ekleyebileceği ve ardından tüm kişilere toplu e-posta gönderebileceği bir uygulama sağlar. Proje, Tkinter kullanarak GUI (grafiksel kullanıcı arayüzü) oluşturur ve SQLite veritabanı ile kişileri yönetir. Gmail üzerinden e-posta göndermek için SMTP protokolü kullanılır.
 
 Özellikler:
