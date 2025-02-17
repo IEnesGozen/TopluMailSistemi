@@ -35,6 +35,6 @@ Mail Gönderme:
 E-posta göndermek için Gmail hesabınızı ve uygulama şifrenizi girin, ardından e-posta konusu ve içeriğini belirleyin.
 "Tüm Kişilere Gönder" butonunu kullanarak mailleri gönderebilirsiniz.
 
-Bilinen Hatalar
+Bilinen Hatalar:
 Gmail güvenlik ayarları nedeniyle, bazı kullanıcıların "Daha Az Güvenli Uygulama" erişimi açık olmadan mail göndermesi engellenebilir.
 Gmail'den toplu mail gönderirken, belirli sayıda e-posta gönderiminden sonra engellemeler yaşanabilir (özellikle büyük miktarda mail gönderiliyorsa).
